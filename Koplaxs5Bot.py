@@ -29,8 +29,8 @@ print "login success plak"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage ="""O҉n҉e҉ ҉P҉i҉e҉c҉e҉ ҉T҉e҉a҉m҉ ҉P҉r҉o҉t҉e҉c҉t҉
-Owner : ✰ЌờᎮḼΛẌֆ✰
+helpMessage ="""SkyTsDev
+Owner : [2DTH.CLUB]
 -==================-
 ◄]·♦·Menu For Public·♦·[►
 [•]Adminlist
@@ -55,7 +55,7 @@ Owner : ✰ЌờᎮḼΛẌֆ✰
 >>[Perintah Proteksi]<<
 👑Hanya Untuk Owner👑
 -==================-
-O҉n҉e҉ ҉P҉i҉e҉c҉e҉ ҉T҉e҉a҉m҉ ҉P҉r҉o҉t҉e҉c҉t҉
+SkyTsDev
 -==================-
 """
 KAC=[cl,ki,kk,kc,ks]
